@@ -1,6 +1,6 @@
 # OCAD University @ GitHub   
 
-This GitHub organization hosts internal and public projects developed by OCAD University staff.
+OCAD University is the largest and most comprehensive art, design and media university in Canada. This GitHub organization hosts internal and public projects developed by OCAD University staff.
 
 ### Faculty and Students  
 OCAD University supports using GitHub in your courses. To learn how OCAD U supports GitHub Education, please refer to:  
